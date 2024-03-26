@@ -9,7 +9,7 @@ The procedure was applied to analyze shipping companies in a bidding process for
 An example can be executed in the file: main.jl while the functions are available in src/Methods.jl
 
 
-**Contributors:**
+**Collaborators:**
 
 - Diogo Ferreira de Lima Silva
 - Laís Sant'anna Fonseca
