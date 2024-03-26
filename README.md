@@ -9,12 +9,8 @@ The procedure was applied to analyze shipping companies in a bidding process for
 An example can be executed in the file: main.jl while the functions are available in src/Methods.jl
 
 
-**Collaborators:**
-- Diogo Ferreira de Lima Silva
-- Laís Sant'anna Fonseca
 
-
-**Review on the Generalized Assignment Problem:**
+**Reviews on the Generalized Assignment Problem:**
 - Öncan, Temel. "A survey of the generalized assignment problem and its applications." INFOR: Information Systems and Operational Research 45, no. 3 (2007): 123-141.
 - Cattrysse, Dirk G., and Luk N. Van Wassenhove. "A survey of algorithms for the generalized assignment problem." European journal of operational research 60, no. 3 (1992): 260-272.
 
@@ -29,3 +25,9 @@ An example can be executed in the file: main.jl while the functions are availabl
 - BWM
     - Rezaei, Jafar. "Best-worst multi-criteria decision-making method: Some properties and a linear model." Omega 64 (2016): 126-130.
     - Rezaei, Jafar. "Best-worst multi-criteria decision-making method." Omega 53 (2015): 49-57.
+
+
+
+**Collaborators of the Repository:**
+- Diogo Ferreira de Lima Silva
+- Laís Sant'anna Fonseca
