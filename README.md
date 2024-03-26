@@ -4,7 +4,7 @@ This repo presents a BWM-PROMETHEE II function implemented in Julia.
 
 JuMP and GLPK were used to apply the BWM linear optimization model. 
 
-The procedure was applied to analyze shipping companies in a bidding process for different routes. The generated net flows were then used as input for an General Assignment model.
+The procedure was applied to analyze shipping companies in a bidding process for different routes. The generated net flows were then used as input for an Generalized Assignment Problem.
 
 An example can be executed in the file: main.jl while the functions are available in src/Methods.jl
 
@@ -12,6 +12,13 @@ An example can be executed in the file: main.jl while the functions are availabl
 **Collaborators:**
 - Diogo Ferreira de Lima Silva
 - Laís Sant'anna Fonseca
+
+
+**Review on the Generalized Assignment Problem:**
+- Öncan, Temel. "A survey of the generalized assignment problem and its applications." INFOR: Information Systems and Operational Research 45, no. 3 (2007): 123-141.
+- Cattrysse, Dirk G., and Luk N. Van Wassenhove. "A survey of algorithms for the generalized assignment problem." European journal of operational research 60, no. 3 (1992): 260-272.
+
+
 
 **Some references for the MCDA procedures:**
 
